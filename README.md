@@ -4,7 +4,7 @@
 2.Run `npm install` <br>
 3.Run `npm start` <br>
 
-## **Claire's** detects multiple faces using Clarifai API.<br>
+## **Claire** detects multiple faces using Clarifai API.<br>
 Tech Stack Used : PERN(PostgreSQl Express React Node)
 
 
